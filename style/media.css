@@ -1,0 +1,43 @@
+@media (max-width: 1200px) {
+    .nav {
+        flex-wrap: wrap;
+    }
+
+    
+}
+
+@media (max-width: 771px) {
+    .mainbigfather {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .mainbigfather2 {
+        flex-wrap: wrap;
+    }
+
+    .mainfather {
+        flex-wrap: wrap;
+    }
+
+    .father2 {
+        flex-wrap: wrap;
+    }
+
+    .fahter3 {
+        flex-wrap: wrap;
+    }
+
+    .mainimg {
+        width: 60%;
+        margin: 0;
+        width: 100%;
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 576px) {
+    .footerfather {
+        flex-wrap: wrap;
+    }
+}
